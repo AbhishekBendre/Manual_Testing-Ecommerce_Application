@@ -1,2 +1,2 @@
-# Manual_Testing-Ecommerce_Application
+# Manual_Testing - Ecommerce_Application
 Opencart
