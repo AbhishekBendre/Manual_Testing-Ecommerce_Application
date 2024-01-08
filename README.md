@@ -1,2 +1,11 @@
 # Manual_Testing - Ecommerce_Application
-Opencart
+Product - Opencart
+
+This is an open source project and in this project I was able to gain a better understanding of the FRS document, which provides an overview of the project and its requirements.
+During this project, I handled the test plan document, which provided me with information about the following topics: scope, test environment, test strategy, defect reporting process, roles and responsibilities, test schedule and test deliverables, entry-exit and suspension-resumption criteria, risk mitigations, and approvals.
+In accordance with the FRS and Test Plan Document, I have successfully composed test scenarios within an Excel spreadsheet. This spreadsheet encompasses the Test Scenario ID, reference, description, priority level, and the quantity of test cases slated for testing. Utilizing the test scenario sheet as a foundation, I have generated a test case sheet. Within this sheet, I have organized multiple sections corresponding to the distinct modules of the application. Additionally, I have included a version history sheet and a sheet for the Required Traceability Matrix (RTM).
+To conduct comprehensive testing, I meticulously established the environment in accordance with the release notes provided by the developers. The setup involved configuring the Apache Server, PHP, and MySQL database. Prior to my involvement, the developers had already conducted Smoke testing and sanity testing.
+Following a successful build installation, I systematically executed all the tests outlined in the test case sheet.
+During the build installation process, I created a database and seamlessly connected it to the main server, enabling me to manage both the front end and back end. This configuration facilitated operations such as adding, deleting, searching, and modifying user data.
+Throughout the completion of this project, I executed a series of tests including Exploratory Testing, Dynamic Testing, Black Box Testing, System Testing, GUI Testing, Functional Testing, Security Testing, Positive and Negative Testing, Adhoc Testing, and End-to-End Testing.
+Following the conclusion of these tests, I identified and documented 30 bugs. I meticulously compiled a bug report containing essential details such as the bug ID, description/summary, steps to reproduce, expected and actual results, as well as severity and priority levels. Additionally, I included a screenshot of each identified bug.
