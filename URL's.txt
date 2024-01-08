@@ -1,0 +1,3 @@
+FrontEnd URL - http://localhost/opencart/upload/
+BackEnd URL - http://localhost/opencart/upload/admin/
+Database Access URL - http://localhost/phpmyadmin/
